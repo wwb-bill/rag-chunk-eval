@@ -1,3 +1,2 @@
-from .eval import compare, evaluate
-from .chunkers import fixed_size, sentence, paragraph, recursive
-__version__ = "0.1.0"
+"""rag-chunk-eval — evaluate chunking strategies for RAG pipelines."""
+__version__ = "0.1.1"
